@@ -169,8 +169,6 @@ This project is licensed under the Commercial License - see the [LICENSE](LICENS
 <div align="center">
   <p>Made with ❤️ by the RecapSaaS Team</p>
   <p>
-    <a href="https://recapsaas.com">Website</a> •
-    <a href="https://docs.recapsaas.com">Documentation</a> •
-    <a href="https://status.recapsaas.com">Status</a>
+    <a href="https://www.recap-saas.x10.mx/#">Website</a> 
   </p>
 </div>
