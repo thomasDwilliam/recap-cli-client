@@ -81,14 +81,14 @@ recap history
 
 ### Get segments.json
 
--Send Youtube link of **Recap Video** to **Custom Gems** with **Thinkin Mode**
+- Send Youtube link of **Recap Video** to **Custom Gems** with **Thinkin Mode**
 
 [Custom Gem V1 (Longer Voiceover Script)](https://gemini.google.com/gem/1r6FzQcxOIRr4ObeQv0vczf1nzn1wzpCF?usp=sharing)
 
 [Custom Gem V2 (Short Voiceover Script)](https://gemini.google.com/gem/1ZE2wLRETTqMOCpB_xdMnSGH90oKcCN1v?usp=sharing)
 
--Copy Output json
--Save output to file
+- Copy Output json
+- Save output to file
 
 ---
 ### Basic Usage
