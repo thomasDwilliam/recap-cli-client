@@ -10,10 +10,8 @@ RecapSaaS is a credit-based AI video recap generation system that creates engagi
 - 📱 **Mobile-Optimized**: Generates 9:16 vertical videos perfect for social media
 - 🗣️ **Multi-Language**: Support for English and Burmese voiceovers
 - ⚡ **Fast Processing**: Optimized video processing with hardware acceleration
-- 🔒 **Secure**: Encrypted core engine with JWT authentication
 - 💳 **Credit-Based**: Flexible pricing with pay-per-generation model
 - 🛠️ **CLI Tool**: Easy-to-use command-line interface
-- 🔌 **API Access**: Full REST API for integration
 
 ## 🚀 Quick Start
 
