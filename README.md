@@ -19,6 +19,16 @@ RecapSaaS is a credit-based AI video recap generation system that creates engagi
 
 ## 🚀 Quick Start
 
+### ☁️ Try in Google Colab (No Setup Required)
+
+The fastest way to get started — run RecapSaaS directly in your browser with zero installation:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/146zciThHayISxwaLWe4zffWp-o5QlV6r?usp=sharing)
+
+> Perfect for trying out RecapSaaS before installing it locally.
+
+---
+
 ### Installation
 
 ```bash
@@ -80,7 +90,7 @@ recap history
 -Copy Output json
 -Save output to file
 
-
+---
 ### Basic Usage
 
 ```bash
